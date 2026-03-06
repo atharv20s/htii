@@ -1,0 +1,44 @@
+# PDF Parsing
+pdfplumber==0.11.4
+PyMuPDF==1.25.3
+
+# OCR for scanned documents
+pytesseract==0.3.13
+Pillow==11.1.0
+
+# Structured data parsing
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Vector database
+chromadb==0.6.3
+
+# Embeddings
+sentence-transformers==3.4.1
+
+# LLM — Groq (fast cloud inference)
+langchain-groq==0.3.2
+
+# LLM — Ollama (local fallback)
+ollama==0.4.7
+langchain-ollama==0.3.2
+
+# LangChain + LangGraph Framework
+langchain==0.3.20
+langchain-community==0.3.19
+langchain-chroma==0.2.2
+langgraph==0.3.21
+
+# Web Search — Tavily AI (deep search)
+tavily-python==0.5.0
+langchain-tavily==0.1.0
+
+# Web Search — DuckDuckGo (free fallback)
+duckduckgo-search==7.5.3
+
+# Report Generation
+python-docx==1.1.2
+
+# Utilities
+tqdm==4.67.1
+python-dotenv==1.0.1

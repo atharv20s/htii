@@ -1,0 +1,10 @@
+Date,Description,Credit,Debit,Balance
+01-01-2025,Opening Balance,,,5000000
+05-01-2025,Sales Receipt from XYZ Corp,3500000,,8500000
+10-01-2025,Purchase Payment to Raw Materials Ltd,,2000000,6500000
+15-01-2025,EMI Payment - HDFC Term Loan,,450000,6050000
+20-01-2025,GST Refund Received,250000,,6300000
+25-01-2025,Salary Payments,,1200000,5100000
+28-01-2025,Sales Receipt from PQR Industries,4200000,,9300000
+30-01-2025,Electricity and Utilities,,180000,9120000
+31-01-2025,Cheque Bounce - Customer Payment,,500000,8620000

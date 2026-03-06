@@ -1,0 +1,27 @@
+Credit Officer Site Visit Report
+Officer: Rajesh Kumar (Senior Credit Manager)
+Date: 15th February 2025
+Company: ABC Industries Private Limited
+Location: Plot No. 45, MIDC Industrial Area, Pune, Maharashtra
+
+FACTORY OBSERVATIONS:
+- Factory is operating at approximately 65% capacity (3 of 5 production lines active)
+- Two production lines were shut down for "maintenance" but appeared to have been idle for several months
+- Inventory levels appeared high — finished goods warehouse was nearly full
+- Modern machinery observed (CNC machines from 2022), well-maintained
+- Workers appeared experienced and production quality looked good
+
+MANAGEMENT MEETING:
+- Met with MD Mr. Anil Sharma and CFO Mrs. Priya Deshmukh
+- MD was confident about growth plans, mentioned new orders from Tata Motors pipeline
+- CFO was evasive about the pending litigation with former supplier
+- When asked about high inventory, management attributed it to "seasonal demand patterns"
+- Plans to start 4th production line by Q3 2025
+
+CONCERNS:
+- The 2 idle production lines are a red flag despite "maintenance" claim
+- High finished goods inventory could indicate demand slowdown
+- CFO's reluctance to discuss litigation in detail is concerning
+- Single customer dependency (Tata Motors) creates concentration risk
+
+OVERALL ASSESSMENT: Moderate Risk — strong manufacturing setup but operational concerns exist

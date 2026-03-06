@@ -1,0 +1,35 @@
+{
+  "company_name": "ABC Industries Private Limited",
+  "cin": "U28920MH2010PTC123456",
+  "financial_year": "2024-25",
+  "directors_report": {
+    "revenue_growth": "15.2% YoY",
+    "key_highlights": [
+      "Expanded manufacturing capacity by 30%",
+      "Entered 2 new export markets (UAE, Singapore)",
+      "Employee count grew from 450 to 580"
+    ],
+    "risk_factors": [
+      "Raw material price volatility in steel and copper",
+      "Dependency on single large customer (35% of revenue)",
+      "Pending litigation with former supplier (Rs 2.5 Crore)"
+    ]
+  },
+  "financials": {
+    "revenue": 1500000000,
+    "net_profit": 120000000,
+    "ebitda": 220000000,
+    "total_assets": 950000000,
+    "total_debt": 450000000,
+    "equity": 300000000,
+    "current_ratio": 1.42,
+    "debt_to_equity": 1.5,
+    "interest_coverage": 3.2
+  },
+  "auditor": {
+    "firm": "Mehta & Associates, Chartered Accountants",
+    "opinion": "Unqualified",
+    "emphasis_of_matter": "Pending tax dispute of Rs 85 Lakhs for AY 2021-22"
+  },
+  "promoter_holding": 62.5
+}
